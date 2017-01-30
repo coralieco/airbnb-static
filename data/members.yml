@@ -1,0 +1,18 @@
+nicolas:
+  picture: nicolas.jpg
+  city: "Paris"
+  city_image: card-paris.jpg
+  home: "Nicolas'Home"
+  description: "Charming room with patio"
+coralie:
+  picture: coralie.png
+  city: "Brussels"
+  city_image: card-brussels.jpeg
+  home: "Coralie's Home"
+  description: "Charming room with patio"
+hadrien:
+  picture: hadrien.jpg
+  city: "London"
+  city_image: card-london.jpeg
+  home: "Hadrien's Home"
+  description: "Charming room with patio"
